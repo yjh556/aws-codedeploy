@@ -1,3 +1,3 @@
 #!/bin/bash
 cd /var/www/html
-rm ./index.html
+rm index.html
